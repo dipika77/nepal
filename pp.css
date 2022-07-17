@@ -1,0 +1,66 @@
+body{
+    margin:0;
+    font-size: 18px;
+    align-items: center;
+    
+}
+h1{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(4, 51, 138);
+    border:1px solid;
+    text-color:white;
+    font-size: 36px;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    color: darkorange;
+    align-self: center;
+    font-size: 24px;
+}
+.one{
+    text-align: center;
+    padding: 20px;
+}
+.two{
+    text-align-last: center;
+    padding: 30px;
+    background-color: rgb(4, 51, 138);
+    border: 1px solid;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-color:white;
+}
+.t1{
+    background-color: orange;
+    border: 1px solid black;
+    display: inline-block;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.t2{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    display: inline-block;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+a:hover{
+    color: black;
+}
+#tre{
+    text-align: center;
+    margin: 0 auto;
+    width: 620px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+}
